@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odasta
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning data structures and algorithmics things
+- 🌱 I’m currently learning data structures and algorithmic things
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: later
 
